@@ -1,4 +1,4 @@
-# CHERRY-TASK
+#ADITYA'S RESPONSIVE PORTFOLIO
 Code for a Responsive Portfolio Website 
 ![image](https://github.com/user-attachments/assets/2d8c5257-2dc8-4f44-8eb8-0e660cc509ed)
 ![image](https://github.com/user-attachments/assets/a75a581b-ce7b-46c4-8958-20818886f55b)
